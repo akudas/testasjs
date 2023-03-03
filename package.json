@@ -1,0 +1,26 @@
+{
+  "name": "testasjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "scripts": {
+    "js": "nodemon ./js/01.js",
+    "js2": "nodemon ./js/02.js",
+    "js3": "nodemon ./js/03.js",
+    "js4": "nodemon ./js/04.js",
+    "js5": "nodemon ./js/05.js",
+    "js6": "nodemon ./js/06.js",
+    "js7": "nodemon ./js/07.js",
+    "js8": "nodemon ./js/08.js",
+    "js9": "nodemon ./js/09.js",
+    "js10": "nodemon ./js/10.js",
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
